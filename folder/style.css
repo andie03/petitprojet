@@ -1,0 +1,161 @@
+body {
+    background-color: #0a0908;
+    color: white;
+}
+#none {
+    background-color: #212529;
+    height: 129px;
+    box-shadow: #d00000 3px 3px 6px 0px inset, #d00000 -3px -3px 6px 1px inset;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+#button1 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button2 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button3 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button3 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button4 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button5 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button6 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button7 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button8 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button9 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button10 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button11 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button12 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button13 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button14 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button15 {
+    background-color: #6c757d;
+    border-radius: 25%s;
+    width: 14%;
+    height: 46px;
+    margin: 45px 45px;
+}
+#button16 {
+    background-color: #343a40;
+    border-radius: 25%s;
+    width: 363px;
+    height: 100px;
+    margin: -50px 45px;
+    position: absolute;
+    top:586px;
+    left:800px;
+    
+}
+#button17 {
+    background-color: #d00000;
+    border-radius: 25%s;
+    width: 137px;
+    height: 319px;
+    position:absolute;
+    left:1075px;
+    top: 180px;
+    margin-right: 0px;
+}
+#corps {
+    display: flex;
+    flex-wrap: wrap;
+}
+span {
+    color: black;
+    font-weight: bolder;
+    font-size : 20px;
+    font-face {
+        font-family: 'MyCustomFont';
+        src: url('../police/overlock_sc.ttf') format('truetype');
+        font-weight: normal;    
+        font-style: normal;
+        font-display: swap;
+      }
+}
+
